@@ -39,6 +39,7 @@ To view or modify this project locally:
 
 ```bash
 git clone https://github.com/LisaMinelly/test-html-css.git
+```bash
 
 ## Contact
 By: Lisa Minelly Sánchez Díaz
