@@ -40,6 +40,7 @@ To view or modify this project locally:
 ```bash
 git clone https://github.com/LisaMinelly/test-html-css.git
 
+## Contact
 By: Lisa Minelly Sánchez Díaz
 id: 1007784812
 Clan: Gosling
