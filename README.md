@@ -41,7 +41,7 @@ git clone https://github.com/LisaMinelly/test-html-css.git
 
 
 ## Contact
-By: Lisa Minelly Sánchez Díaz
-id: 1007784812
-Clan: Gosling
-Correo: Lisasanchezd1712@gmail.com
+- By: Lisa Minelly Sánchez Díaz
+- id: 1007784812
+- Clan: Gosling
+- Correo: Lisasanchezd1712@gmail.com
