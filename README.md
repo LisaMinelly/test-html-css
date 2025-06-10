@@ -1,4 +1,3 @@
-# test-html-css
 # HTML-CSS test
 By: Lisa Minelly Sánchez Díaz
 cc: 1007784812
